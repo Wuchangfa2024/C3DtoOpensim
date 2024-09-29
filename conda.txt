@@ -1,0 +1,3 @@
+conda create --name C3DtoOpensim python=3.8
+
+conda activate C3DtoOpensim
